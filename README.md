@@ -16,7 +16,6 @@ I build across **machine learning research, healthcare tech, full-stack web, and
 |---|---|
 | **[VenturiSpiro (app)](https://github.com/herambpatilofficial/venspiro)** | Flutter mobile app for Bluetooth spirometry — guided lung-function testing on your phone. |
 | **[VenturiSpiro (backend)](https://github.com/herambpatilofficial/venspirobackend)** | Django REST Framework auth API powering the VenturiSpiro app. |
-| **[Hospital Management System](https://github.com/herambpatilofficial/Hospital-management-system)** | Patients, doctors, wards, and bed allocation, built on the Django admin. |
 
 ### 🛠️ Developer Tools & AI
 
@@ -30,8 +29,6 @@ I build across **machine learning research, healthcare tech, full-stack web, and
 | Project | What it is |
 |---|---|
 | **[Inventory Management System](https://github.com/herambpatilofficial/Inventory_Management_System)** | Stock tracking, purchase orders, and sales analytics for franchisee stores (Django + Tailwind). |
-| **[Ticketing Platform](https://github.com/herambpatilofficial/ticketingplatform)** | Event ticketing built with Django. |
-| **[Art Exhibition](https://github.com/herambpatilofficial/artexhibition)** | A Django site for hosting a digital art exhibition. |
 
 ### ⚙️ Utilities
 
