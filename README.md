@@ -8,6 +8,7 @@ I build across **machine learning research, healthcare tech, full-stack web, and
 
 | Project | What it is |
 |---|---|
+| **[stacked-lora](https://github.com/herambpatilofficial/stacked-lora)** | Reference implementation for "Stacked LoRA" (IJCNLP-AACL 2025) — zero-forgetting continual learning by composing frozen task-specific LoRA adapters. Permuted-MNIST: 90.75% avg, Llama-3.2-1B NLP: 86.38% avg. |
 | **[Spatial-JEPA](https://github.com/herambpatilofficial/Spatial-JEPA)** | Self-supervised learning of metric 3D geometry from RGB-D. Geometry *emerges* from pretraining and transfers zero-shot from indoor scenes to outdoor driving to colonoscopy — for ~$4 of compute. |
 
 ### 🩺 Healthcare & MedTech
